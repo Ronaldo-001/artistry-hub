@@ -1,0 +1,5 @@
+In today's world, many aspiring artists struggle to find a platform to sell their art and get paid by buyers. 
+Our project, **Artistry Hub**, addresses this issue by providing a place where artists can upload, showcase, 
+and sell their digital artworks. Buyers can browse, purchase, and review the artworks. The application will 
+be developed in Django, utilizing OPAL and Cedar to manage and enforce access control policies efficiently. 
+This ensures a secure and user-friendly experience for both artists and buyers.
